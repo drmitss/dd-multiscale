@@ -1,0 +1,29 @@
+name: dd_multiscale_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy=1.26.4
+  - scipy=1.15.2
+  - sympy=1.13.3
+  - pandas=2.2.3
+  - matplotlib=3.10.1
+  - plotly=6.0.1
+  - tqdm=4.67.1
+  - ipywidgets=8.1.6
+  - scikit-learn=1.6.1
+  - pywavelets=1.8.0
+  - scikit-image=0.25.2
+  - statsmodels=0.14.4
+  - joblib=1.4.2
+  - pip
+  - pip:
+      - torch==2.7.0
+      - torchvision==0.22.0
+      - torchaudio==2.7.0
+      - torchdiffeq==0.2.5
+      - pysindy==1.7.5
+      - tqdm-joblib==0.0.4
+      - tensorflow==2.16.2
+      - keras==3.9.2
