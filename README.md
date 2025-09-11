@@ -1,7 +1,7 @@
-## Data-driven identification of biomedical systems using multi-scale analysis Python Toolkit
+## Data-driven identification of biological systems using multi-scale analysis Python Toolkit
 
 
-This repository contains the code used to generate the results presented in [*Data-driven identification of biomedical systems using multi-scale analysis*](https://www.biorxiv.org/content/10.1101/2025.06.05.657989v1). The toolkit integrates methods for sparse system identification (Weak SINDy), multi-scale decomposition (CSP), Jacobian estimation via neural networks, Neural ODEs, and classical reduced-model evaluation (PEA).
+This repository contains the code used to generate the results presented in [*Data-driven identification of biological systems using multi-scale analysis*](https://www.biorxiv.org/content/10.1101/2025.06.05.657989v1). The toolkit integrates methods for sparse system identification (Weak SINDy), multi-scale decomposition (CSP), Jacobian estimation via neural networks, Neural ODEs, and classical reduced-model evaluation (PEA).
 
 <p align="center">
   <img src="Methodology/Methodology.png" width="90%"><br>
