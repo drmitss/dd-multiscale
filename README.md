@@ -156,7 +156,7 @@ The system is modular and supports extensions to other chemical or biological mo
 
 If you use this code, please cite the corresponding paper:
 
-_“Data-driven identification of biomedical systems using multi-scale analysis"_, I. Muhammed, D.M. Manias, D.A. Goussis, H. Hatzikirou, [PLoS Computational Biology](https://www.biorxiv.org/content/10.1101/2025.06.05.657989v1), 2025.
+_“Data-driven identification of biological systems using multi-scale analysis"_, I. Muhammed, D.M. Manias, D.A. Goussis, H. Hatzikirou, [PLoS Computational Biology](https://www.biorxiv.org/content/10.1101/2025.06.05.657989v1), 2025.
 
 ---
 
